@@ -5,7 +5,7 @@ Readme · MD
  
 A simple task board built with plain HTML, CSS and JavaScript. Add tasks by typing them and drag the cards between the **To Do**, **In Progress** and **Done** lists.
  
-**Live demo:** https://YOUR-USERNAME.github.io/simple-board/
+**Live demo:** https://Yuri-Gonch.github.io/to-do-list/
  
 ## Features
  
